@@ -1,10 +1,10 @@
 <p align="center">
 <!--   <img src="https://github.com/Gabriellji/Gabriellji/blob/main/assets/header.png?raw=true" alt="banner"/> -->
 </p>
-<h1 align='center'><samp> Hi! <img src="https://raw.githubusercontent.com/Gabriellji/Gabriellji/master/assets/wave.gif" width="30px"></h1>
-<p align='center'><samp>
- Hi I'm Valentin.
-</p>
+<h1 align='center'><samp>  Hi! I'm Valentin. <img src="https://raw.githubusercontent.com/Gabriellji/Gabriellji/master/assets/wave.gif" width="30px"></h1>
+<!-- <p align='center'><samp> -->
+
+<!-- </p> -->
 <p align='center'><samp>I'm a Front-end Developer from Minsk.<br/>Specialization: JavaScript, React, Nodejs, Express, MongoDB, MySQL <br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/valentin-kolko/">Linkedin</a>.</p>
 
 <!-- <h1 align='center'><samp><i>Stay awesome!</i></h1> -->
