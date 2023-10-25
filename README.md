@@ -6,7 +6,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <!-- <p align='center'><samp> -->
 
 <!-- </p> -->
-<p align='center'><samp>I'm a Front-end Developer from Minsk.<br/>Specialization: JavaScript, React 
+<p align='center'><samp>I'm a Front-end Developer from Minsk.<br/>Specialization: JavaScript/Typescript, React, Redux 
 <!--   <br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/valentin-kolko/">Linkedin</a>. -->
   </p>
 
@@ -22,6 +22,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   <p align='center'><samp><br/>portfolio:  <br/> 
     <a href="https://demiurge-sf.netlify.app/">Demiurge</a>
     <a href="https://cranky-davinci-a0c459.netlify.app/">Hackaton>
-    <a href="https://cranky-davinci-a0c459.netlify.app/">Tic-Tac-Toe/a>
 
     </p> -->
