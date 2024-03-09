@@ -6,7 +6,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <!-- <p align='center'><samp> -->
 
 <!-- </p> -->
-<p align='center'><samp>I'm a Front-end Developer from Minsk.<br/>Specialization: JavaScript/Typescript, React, Redux 
+<p align='center'><samp>I'm a Front-end Developer.<br/>Specialization: JavaScript/Typescript, React, Redux 
 <!--   <br/>For any questions feel free to reach me out on <a href="https://www.linkedin.com/in/valentin-kolko/">Linkedin</a>. -->
   </p>
 
